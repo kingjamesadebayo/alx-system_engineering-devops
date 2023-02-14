@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BINARY((10100))="$((20))"
+echo $((2#$BINARY))
