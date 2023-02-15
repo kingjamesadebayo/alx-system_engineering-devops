@@ -1,2 +1,2 @@
-i#!/bin/bash
+#!/bin/bash
 echo $((WATER+WATER)) $((STIR+STIR)) printf "$((bestchol))"
